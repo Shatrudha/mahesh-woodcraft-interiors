@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahesh-woodcraft-interiors.netlify.app/sitemap.xml
